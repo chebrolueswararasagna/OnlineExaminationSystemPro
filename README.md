@@ -1,38 +1,48 @@
-# Online Examination System Pro
+------------------------------------------------------------
+PROJECT TITLE:
+Online Examination System Pro
+------------------------------------------------------------
 
-## Overview
+PURPOSE OF PROJECT: 
+The Online Examination System Pro is a Java-based application
+developed to conduct online examinations efficiently. It allows
+users to answer multiple-choice questions, calculates scores
+automatically, and displays results instantly.
 
-Online Examination System Pro is a Java-based application developed using Object-Oriented Programming concepts. The system allows users to attempt multiple-choice examinations and receive instant results.
+VERSION:
+1.0
 
-## Features
+DATE:
+June 2026
 
-* User Authentication
-* Multiple Choice Questions (MCQs)
-* Automatic Score Calculation
-* Instant Result Generation
-* Console-Based Interface
-* OOP-Based Design
+FEATURES:
+• User-friendly examination interface
+• Multiple-choice question support
+• Automatic score calculation
+• Instant result generation
+• Object-Oriented Programming implementation
+• Simple and efficient console-based design
 
-## Technologies Used
+TECHNOLOGIES USED:
+• Java
+• BlueJ IDE
+• OOP Concepts
 
-* Java
-* Object-Oriented Programming (OOP)
-* BlueJ IDE
-
-## Project Structure
-
-* OnlineExaminationSystemPro.java – Main application source code
-* package.bluej – BlueJ project configuration
-
-## How to Run
-
+HOW TO START THIS PROJECT:
 1. Open the project in BlueJ.
-2. Compile the Java file.
-3. Run the main class.
-4. Enter login credentials.
-5. Attempt the examination.
-6. View the final score.
+2. Compile the OnlineExaminationSystemPro class.
+3. Run the main method.
+4. Answer the questions displayed.
+5. View your final score and result.
 
-## Author
-
+AUTHOR:
 Eswara Rasagna Chebrolu
+
+USER INSTRUCTIONS:
+• Enter the option corresponding to your answer.
+• Complete all questions.
+• Results will be displayed automatically at the end.
+
+------------------------------------------------------------
+Thank you for using Online Examination System Pro.
+------------------------------------------------------------
